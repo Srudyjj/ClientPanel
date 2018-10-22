@@ -1,8 +1,8 @@
 import React from 'react';
 import Clients from '../clients/Clients';
-import SideBar from '../layout/SideBar';
+import SideBar from '../layout/Sidebar';
 
-export default function DashBoard() {
+export default function Dashboard() {
   return (
     <div className="row" >
       <div className="col-md-10">
